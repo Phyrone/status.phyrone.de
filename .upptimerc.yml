@@ -1,6 +1,7 @@
 # Change these first
 owner: Phyrone # Your GitHub organization or username, where this repository lives
 repo: status.phyrone.de # The name of this repository
+user-agent: $ROBOT_USERAGENT
 
 sites:
   - name: Homepage
@@ -40,4 +41,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-user-agent: $ROBOT_USERAGENT
+
