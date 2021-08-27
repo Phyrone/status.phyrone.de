@@ -12,6 +12,8 @@ sites:
     url: https://static.phyrone.de/
   - name: Repo
     url: https://repo.phyrone.de/
+  - name: Plantuml
+    url: https://uml.phyrone.de/
   - name: SMTP
     check: "tcp-ping"
     url: mail.phyrone.de
@@ -20,7 +22,7 @@ sites:
     check: "tcp-ping"
     url: mail.phyrone.de
     port: 465
-  - name: Mailserver
+  - name: Mail (Web) Server
     url: https://mail.phyrone.de/
     
 status-website:
