@@ -142,18 +142,19 @@
     "url": "https://mail.phyrone.de/",
     "icon": "https://favicons.githubusercontent.com/mail.phyrone.de",
     "slug": "mail-web-server",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "98.83%",
-    "uptimeYear": "98.83%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 443,
     "timeDay": 412,
     "timeWeek": 443,
     "timeMonth": 443,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2021-08-29": 0,
       "2021-08-27": 27
     }
   }
