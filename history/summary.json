@@ -26,19 +26,19 @@
     "url": "https://www.phyrone.space/",
     "icon": "https://favicons.githubusercontent.com/www.phyrone.space",
     "slug": "nextcloud",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1611,
-    "timeDay": 711,
-    "timeWeek": 1082,
-    "timeMonth": 1226,
+    "timeDay": 975,
+    "timeWeek": 1128,
+    "timeMonth": 1234,
     "timeYear": 1611,
     "dailyMinutesDown": {
-      "2021-10-24": 0
+      "2021-10-24": 12
     }
   },
   {
