@@ -28,18 +28,16 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1611,
     "timeDay": 975,
     "timeWeek": 1128,
     "timeMonth": 1234,
     "timeYear": 1611,
-    "dailyMinutesDown": {
-      "2021-10-24": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -68,18 +66,19 @@
     "url": "https://repo.phyrone.de/",
     "icon": "https://favicons.githubusercontent.com/repo.phyrone.de",
     "slug": "repo",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.71%",
     "time": 522,
-    "timeDay": 465,
-    "timeWeek": 538,
-    "timeMonth": 618,
+    "timeDay": 455,
+    "timeWeek": 527,
+    "timeMonth": 613,
     "timeYear": 522,
     "dailyMinutesDown": {
+      "2021-10-24": 0,
       "2021-07-24": 840,
       "2021-07-23": 1440,
       "2021-07-22": 914
