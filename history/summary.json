@@ -4,16 +4,16 @@
     "url": "https://www.phyrone.de/",
     "icon": "https://favicons.githubusercontent.com/www.phyrone.de",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "89.73%",
-    "uptimeDay": "7.95%",
-    "uptimeWeek": "8.24%",
-    "uptimeMonth": "6.05%",
-    "uptimeYear": "89.73%",
+    "status": "down",
+    "uptime": "89.82%",
+    "uptimeDay": "8.53%",
+    "uptimeWeek": "8.32%",
+    "uptimeMonth": "6.87%",
+    "uptimeYear": "89.82%",
     "time": 335,
-    "timeDay": 345,
-    "timeWeek": 375,
-    "timeMonth": 385,
+    "timeDay": 349,
+    "timeWeek": 376,
+    "timeMonth": 386,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2022-02-08": 425,
@@ -46,7 +46,7 @@
       "2022-01-12": 1388,
       "2022-01-11": 1314,
       "2022-01-10": 1373,
-      "2022-01-09": 532
+      "2022-01-09": 175
     }
   },
   {
@@ -66,7 +66,7 @@
     "timeMonth": 479,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2022-02-08": 462,
+      "2022-02-08": 471,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
