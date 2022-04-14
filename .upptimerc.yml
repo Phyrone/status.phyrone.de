@@ -4,10 +4,10 @@ repo: status.phyrone.de # The name of this repository
 user-agent: '$ROBOT_USERAGENT'
 
 sites:
-  - name: Homepage
-    url: https://www.phyrone.de/
-  - name: Nextcloud
-    url: https://www.phyrone.space/
+#  - name: Homepage
+#    url: https://www.phyrone.de/
+#  - name: Nextcloud
+#    url: https://www.phyrone.space/
   - name: CDN
     url: https://static.phyrone.de/
   - name: Repo
