@@ -16,6 +16,8 @@ sites:
     url: https://uml.phyrone.de/
   - name: URL Shortener
     url: https://phyr.one/admin/
+  - name: Cryptgeon
+    url: https://tmpmsg.phyrone.de/
   - name: SMTP
     check: "tcp-ping"
     url: mail.phyrone.de
