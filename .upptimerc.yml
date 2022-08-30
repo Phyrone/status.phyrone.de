@@ -14,6 +14,8 @@ sites:
     url: https://repo.phyrone.de/
   - name: Plantuml
     url: https://uml.phyrone.de/
+  - name: URL Shortener
+    url: https://phyr.one/admin/
   - name: SMTP
     check: "tcp-ping"
     url: mail.phyrone.de
