@@ -183,7 +183,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uml.phyrone.de.ico",
     "slug": "plantuml",
     "status": "up",
-    "uptime": "98.08%",
+    "uptime": "98.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -235,9 +235,9 @@
     "url": "https://tmpmsg.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/tmpmsg.phyrone.de.ico",
     "slug": "cryptgeon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -246,7 +246,9 @@
     "timeWeek": 532,
     "timeMonth": 546,
     "timeYear": 539,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-18": 0
+    }
   },
   {
     "name": "SMTP",
