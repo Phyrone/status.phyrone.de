@@ -8,8 +8,8 @@ sites:
     url: https://www.phyrone.de/
 #  - name: Nextcloud
 #    url: https://www.phyrone.space/
-  - name: Static Files
-    url: https://static.phyrone.de/
+#  - name: Static Files
+#    url: https://static.phyrone.de/
   - name: Repo
     url: https://repo.phyrone.de/
   - name: Plantuml
