@@ -6,8 +6,8 @@ user-agent: '$ROBOT_USERAGENT'
 sites:
   - name: Homepage
     url: https://www.phyrone.de/
-#  - name: Nextcloud
-#    url: https://www.phyrone.space/
+  - name: Nextcloud
+    url: https://www.phyrone.space/
 #  - name: Static Files
 #    url: https://static.phyrone.de/
   - name: Repo
