@@ -10,8 +10,8 @@ sites:
 #    url: https://www.phyrone.space/
   - name: Static Files
     url: https://static.phyrone.de/
-#  - name: Repo
-#    url: https://repo.phyrone.de/
+  - name: Repo
+    url: https://repo.phyrone.de/
   - name: Plantuml
     url: https://uml.phyrone.de/
 #  - name: URL Shortener
