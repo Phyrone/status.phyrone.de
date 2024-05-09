@@ -8,25 +8,25 @@ sites:
     url: https://www.phyrone.de/
 #  - name: Nextcloud
 #    url: https://www.phyrone.space/
-  - name: Static Files
-    url: https://static.phyrone.de/
-  - name: Repo
-    url: https://repo.phyrone.de/
-  - name: Plantuml
-    url: https://uml.phyrone.de/
+#  - name: Static Files
+#    url: https://static.phyrone.de/
+#  - name: Repo
+#    url: https://repo.phyrone.de/
+#  - name: Plantuml
+#    url: https://uml.phyrone.de/
 #  - name: URL Shortener
 #    url: https://phyr.one/admin/
 #  - name: Cryptgeon
 #    url: https://tmpmsg.phyrone.de/
-  - name: Downloads
-    url: https://download.phyrone.de/
+#  - name: Downloads
+#    url: https://download.phyrone.de/
   - name: SMTP
     check: "tcp-ping"
-    url: mail.phyrone.de
+    url: mx.phyrone.email
     port: 25
   - name: SMTPS
     check: "tcp-ping"
-    url: mail.phyrone.de
+    url: mx.phyrone.email
     port: 465
   - name: Mail (Web) Server
     url: https://mail.phyrone.de/
