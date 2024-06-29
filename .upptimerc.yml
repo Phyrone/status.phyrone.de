@@ -20,6 +20,8 @@ sites:
 #    url: https://tmpmsg.phyrone.de/
 #  - name: Downloads
 #    url: https://download.phyrone.de/
+  - name: Container Registry
+    url: https://reg.phyrone.eu/
   - name: SMTP
     check: "tcp-ping"
     url: mx.phyrone.email
