@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phyrone.de.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "88.70%",
+    "uptime": "88.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 235,
-    "timeDay": 286,
-    "timeWeek": 281,
-    "timeMonth": 267,
+    "timeDay": 239,
+    "timeWeek": 283,
+    "timeMonth": 268,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2024-03-24": 27,
@@ -33,8 +33,8 @@
     "uptimeYear": "98.80%",
     "time": 143,
     "timeDay": 138,
-    "timeWeek": 121,
-    "timeMonth": 111,
+    "timeWeek": 127,
+    "timeMonth": 112,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2024-03-31": 556,
@@ -43,8 +43,7 @@
       "2023-10-01": 466,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
-      "2023-09-28": 1440,
-      "2023-09-27": 908
+      "2023-09-28": 1440
     }
   },
   {
@@ -60,9 +59,9 @@
     "uptimeYear": "98.80%",
     "time": 124,
     "timeDay": 138,
-    "timeWeek": 121,
-    "timeMonth": 111,
-    "timeYear": 118,
+    "timeWeek": 127,
+    "timeMonth": 112,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2024-03-31": 556,
       "2024-03-24": 20,
@@ -70,8 +69,7 @@
       "2023-10-01": 466,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
-      "2023-09-28": 1440,
-      "2023-09-27": 906
+      "2023-09-28": 1440
     }
   },
   {
@@ -86,15 +84,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 664,
-    "timeDay": 645,
-    "timeWeek": 851,
-    "timeMonth": 728,
-    "timeYear": 708,
+    "timeDay": 803,
+    "timeWeek": 885,
+    "timeMonth": 725,
+    "timeYear": 709,
     "dailyMinutesDown": {
       "2024-07-01": 17,
       "2024-03-24": 20,
-      "2023-11-01": 20,
-      "2023-09-27": 52
+      "2023-11-01": 20
     }
   }
 ]
