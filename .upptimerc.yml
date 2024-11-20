@@ -10,20 +10,12 @@ sites:
     url: https://cloud.phyrone.de/
   - name: Gitea
     url: https://git.phyrone.de/
-#  - name: Static Files
-#    url: https://static.phyrone.de/
-#  - name: Repo
-#    url: https://repo.phyrone.de/
-#  - name: Plantuml
-#    url: https://uml.phyrone.de/
-#  - name: URL Shortener
-#    url: https://phyr.one/admin/
-#  - name: Cryptgeon
-#    url: https://tmpmsg.phyrone.de/
-#  - name: Downloads
-#    url: https://download.phyrone.de/
-#  - name: Container Registry
-#    url: https://reg.phyrone.eu/
+  - name: Posthog
+    url: https://posthog.phyrone.de/
+  - name: Snapdrop
+    url: https://drop.phyrone.de/
+  - name: N8N
+    url: https://n8n.phyrone.de/
   - name: SMTP
     check: "tcp-ping"
     url: mx.phyrone.email
