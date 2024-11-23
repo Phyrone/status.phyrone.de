@@ -60,18 +60,20 @@
     "url": "https://posthog.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/posthog.phyrone.de.ico",
     "slug": "posthog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 868,
-    "timeWeek": 976,
-    "timeMonth": 976,
-    "timeYear": 976,
-    "dailyMinutesDown": {}
+    "time": 863,
+    "timeDay": 639,
+    "timeWeek": 863,
+    "timeMonth": 863,
+    "timeYear": 863,
+    "dailyMinutesDown": {
+      "2024-11-23": 0
+    }
   },
   {
     "name": "Snapdrop",
