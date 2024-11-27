@@ -10,8 +10,6 @@ sites:
     url: https://cloud.phyrone.de/
   - name: Gitea
     url: https://git.phyrone.de/
-  - name: Posthog
-    url: https://posthog.phyrone.de/
   - name: Snapdrop
     url: https://drop.phyrone.de/
   - name: N8N
