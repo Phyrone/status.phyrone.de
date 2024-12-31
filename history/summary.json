@@ -6,17 +6,18 @@
     "slug": "homepage",
     "status": "down",
     "uptime": "89.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 274,
     "timeDay": 645,
     "timeWeek": 668,
-    "timeMonth": 684,
+    "timeMonth": 680,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-12-30": 0,
+      "2024-12-31": 4,
+      "2024-12-30": 14,
       "2024-03-24": 27
     }
   },
@@ -27,17 +28,18 @@
     "slug": "nextcloud",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 1162,
     "timeDay": 2985,
     "timeWeek": 2942,
-    "timeMonth": 3194,
+    "timeMonth": 3184,
     "timeYear": 3106,
     "dailyMinutesDown": {
-      "2024-12-30": 0
+      "2024-12-31": 4,
+      "2024-12-30": 14
     }
   },
   {
@@ -46,18 +48,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.phyrone.de.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 714,
     "timeDay": 1283,
     "timeWeek": 791,
-    "timeMonth": 706,
+    "timeMonth": 700,
     "timeYear": 714,
     "dailyMinutesDown": {
-      "2024-12-30": 0
+      "2024-12-31": 4,
+      "2024-12-30": 14
     }
   },
   {
@@ -66,18 +69,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drop.phyrone.de.ico",
     "slug": "snapdrop",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 640,
     "timeDay": 643,
     "timeWeek": 581,
-    "timeMonth": 637,
+    "timeMonth": 635,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2024-12-30": 0
+      "2024-12-31": 4,
+      "2024-12-30": 14
     }
   },
   {
@@ -86,18 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.phyrone.de.ico",
     "slug": "n8-n",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 506,
     "timeDay": 398,
     "timeWeek": 484,
-    "timeMonth": 501,
+    "timeMonth": 503,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2024-12-30": 0
+      "2024-12-31": 4,
+      "2024-12-30": 14
     }
   },
   {
@@ -160,7 +165,7 @@
     "time": 689,
     "timeDay": 674,
     "timeWeek": 650,
-    "timeMonth": 700,
+    "timeMonth": 699,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2024-10-30": 63,
