@@ -1,7 +1,7 @@
 url: https://cloud.phyrone.de/
-status: up
-code: 200
-responseTime: 2945
-lastUpdated: 2025-01-11T23:04:41.238Z
+status: down
+code: 502
+responseTime: 3083
+lastUpdated: 2025-01-12T01:00:00.610Z
 startTime: 2024-11-20T17:52:16.962Z
 generator: Upptime <https://github.com/upptime/upptime>
