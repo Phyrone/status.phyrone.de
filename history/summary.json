@@ -4,10 +4,10 @@
     "url": "https://www.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.phyrone.de.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "90.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "90.61%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 330,
@@ -16,6 +16,7 @@
     "timeMonth": 724,
     "timeYear": 361,
     "dailyMinutesDown": {
+      "2025-02-25": 1,
       "2025-01-07": 48,
       "2024-12-31": 30,
       "2024-12-30": 14,
@@ -27,18 +28,19 @@
     "url": "https://cloud.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.phyrone.de.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1540,
+    "time": 1541,
     "timeDay": 2910,
     "timeWeek": 2645,
     "timeMonth": 3021,
     "timeYear": 3064,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2025-01-12": 37,
       "2024-12-31": 30,
       "2024-12-30": 14
@@ -49,9 +51,9 @@
     "url": "https://git.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/git.phyrone.de.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -61,6 +63,7 @@
     "timeMonth": 670,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2024-12-31": 31,
       "2024-12-30": 14
     }
@@ -70,9 +73,9 @@
     "url": "https://drop.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/drop.phyrone.de.ico",
     "slug": "snapdrop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -82,6 +85,7 @@
     "timeMonth": 667,
     "timeYear": 645,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2024-12-31": 31,
       "2024-12-30": 14
     }
@@ -91,9 +95,9 @@
     "url": "https://n8n.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.phyrone.de.ico",
     "slug": "n8-n",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -103,6 +107,7 @@
     "timeMonth": 545,
     "timeYear": 535,
     "dailyMinutesDown": {
+      "2025-02-25": 0,
       "2024-12-31": 31,
       "2024-12-30": 14
     }
@@ -122,7 +127,7 @@
     "timeDay": 105,
     "timeWeek": 99,
     "timeMonth": 109,
-    "timeYear": 111,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2024-10-30": 65,
       "2024-10-27": 968,
@@ -168,7 +173,7 @@
     "timeDay": 606,
     "timeWeek": 608,
     "timeMonth": 657,
-    "timeYear": 772,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2024-10-30": 63,
       "2024-07-01": 17,
