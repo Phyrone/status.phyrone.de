@@ -24,7 +24,9 @@ sites:
     port: 465
   - name: Mail (Web) Server
     url: https://mail.phyrone.de/
-    
+
+assignees:
+  - phyrone
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
