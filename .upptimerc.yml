@@ -33,7 +33,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   #baseUrl: https://status.phyrone.de/
-  introTitle: ""
+  introTitle: "Status of Some my Online Services"
   introMessage: "Powered by [Uptime](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
