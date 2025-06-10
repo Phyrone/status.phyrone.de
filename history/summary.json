@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.phyrone.de.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "25.58%",
+    "uptime": "25.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.37%",
@@ -128,9 +128,9 @@
     "slug": "smtp",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 111,
     "timeDay": 144,
@@ -138,7 +138,6 @@
     "timeMonth": 116,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-06-09": 7,
       "2024-10-30": 65,
       "2024-10-27": 968
     }
@@ -150,9 +149,9 @@
     "slug": "smtps",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 110,
     "timeDay": 143,
@@ -160,7 +159,6 @@
     "timeMonth": 116,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-06-09": 7,
       "2024-10-30": 64,
       "2024-10-27": 971
     }
@@ -172,9 +170,9 @@
     "slug": "mail-web-server",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 771,
     "timeDay": 853,
@@ -182,7 +180,6 @@
     "timeMonth": 758,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2025-06-09": 7,
       "2024-10-30": 63,
       "2024-07-01": 17
     }
