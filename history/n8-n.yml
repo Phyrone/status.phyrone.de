@@ -1,7 +1,7 @@
 url: https://n8n.phyrone.de/
-status: up
-code: 200
-responseTime: 509
-lastUpdated: 2025-09-29T23:05:18.939Z
+status: down
+code: 503
+responseTime: 557
+lastUpdated: 2025-09-30T14:46:21.278Z
 startTime: 2024-11-20T17:56:30.282Z
 generator: Upptime <https://github.com/upptime/upptime>
