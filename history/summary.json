@@ -34,14 +34,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.phyrone.de.ico",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "55.71%",
+    "uptime": "55.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.66%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
     "time": 2294,
     "timeDay": 2369,
-    "timeWeek": 2366,
+    "timeWeek": 2349,
     "timeMonth": 2322,
     "timeYear": 2792,
     "dailyMinutesDown": {
@@ -133,9 +133,9 @@
     "url": "mx.phyrone.email",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -145,6 +145,7 @@
     "timeMonth": 107,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2025-10-26": 0,
       "2024-10-30": 65,
       "2024-10-27": 968
     }
@@ -154,9 +155,9 @@
     "url": "mx.phyrone.email",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -166,6 +167,7 @@
     "timeMonth": 107,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2025-10-26": 0,
       "2024-10-30": 64,
       "2024-10-27": 971
     }
@@ -175,18 +177,19 @@
     "url": "https://mail.phyrone.de/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.phyrone.de.ico",
     "slug": "mail-web-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 773,
+    "time": 772,
     "timeDay": 873,
     "timeWeek": 847,
     "timeMonth": 791,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2025-10-26": 0,
       "2024-10-30": 63
     }
   }
