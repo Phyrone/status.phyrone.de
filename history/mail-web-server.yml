@@ -1,7 +1,7 @@
 url: https://mail.phyrone.de/
-status: up
-code: 200
-responseTime: 594
-lastUpdated: 2026-03-31T23:12:05.009Z
+status: down
+code: 502
+responseTime: 460
+lastUpdated: 2026-04-01T19:45:07.029Z
 startTime: 2021-08-27T10:02:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
