@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.phyrone.de.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "82.02%",
+    "uptime": "82.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "52.13%",
+    "uptimeMonth": "55.41%",
     "uptimeYear": "55.03%",
     "time": 511,
-    "timeDay": 253,
-    "timeWeek": 212,
-    "timeMonth": 202,
-    "timeYear": 450,
+    "timeDay": 196,
+    "timeWeek": 222,
+    "timeMonth": 204,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2026-05-05": 834,
       "2026-05-04": 1440,
@@ -183,8 +183,7 @@
       "2025-10-10": 61,
       "2025-10-09": 1440,
       "2025-10-08": 162,
-      "2025-08-26": 370,
-      "2025-05-22": 276
+      "2025-08-26": 370
     }
   },
   {
@@ -193,18 +192,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.phyrone.de.ico",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "62.96%",
+    "uptime": "62.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.54%",
-    "time": 2486,
-    "timeDay": 390,
-    "timeWeek": 377,
-    "timeMonth": 428,
-    "timeYear": 2247,
+    "uptimeYear": "85.26%",
+    "time": 2488,
+    "timeDay": 4377,
+    "timeWeek": 929,
+    "timeMonth": 560,
+    "timeYear": 2250,
     "dailyMinutesDown": {
-      "2026-05-21": 25,
+      "2026-05-22": 24,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -262,8 +262,7 @@
       "2025-11-27": 612,
       "2025-10-19": 39,
       "2025-08-15": 132,
-      "2025-07-11": 525,
-      "2025-05-22": 276
+      "2025-07-11": 525
     }
   },
   {
@@ -278,9 +277,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.98%",
     "time": 628,
-    "timeDay": 664,
-    "timeWeek": 621,
-    "timeMonth": 607,
+    "timeDay": 825,
+    "timeWeek": 630,
+    "timeMonth": 609,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2025-12-08": 598,
@@ -294,8 +293,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 612,
-      "2025-05-22": 276
+      "2025-11-27": 612
     }
   },
   {
@@ -310,9 +308,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.98%",
     "time": 619,
-    "timeDay": 647,
-    "timeWeek": 617,
-    "timeMonth": 601,
+    "timeDay": 871,
+    "timeWeek": 622,
+    "timeMonth": 602,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2025-12-08": 609,
@@ -326,8 +324,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 612,
-      "2025-05-22": 276
+      "2025-11-27": 612
     }
   },
   {
@@ -336,18 +333,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/n8n.phyrone.de.ico",
     "slug": "n8-n",
     "status": "down",
-    "uptime": "72.82%",
+    "uptime": "72.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.33%",
-    "time": 517,
-    "timeDay": 376,
-    "timeWeek": 371,
-    "timeMonth": 414,
-    "timeYear": 508,
+    "uptimeYear": "59.06%",
+    "time": 524,
+    "timeDay": 4405,
+    "timeWeek": 929,
+    "timeMonth": 543,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2026-05-21": 25,
+      "2026-05-22": 24,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -498,8 +496,7 @@
       "2025-11-30": 1440,
       "2025-11-29": 1440,
       "2025-11-28": 1440,
-      "2025-11-27": 612,
-      "2025-05-22": 276
+      "2025-11-27": 612
     }
   },
   {
@@ -514,8 +511,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 112,
-    "timeDay": 108,
-    "timeWeek": 111,
+    "timeDay": 150,
+    "timeWeek": 112,
     "timeMonth": 110,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -540,9 +537,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 111,
-    "timeDay": 109,
-    "timeWeek": 110,
-    "timeMonth": 109,
+    "timeDay": 148,
+    "timeWeek": 111,
+    "timeMonth": 110,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2026-04-11": 23,
@@ -566,9 +563,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 757,
-    "timeDay": 733,
-    "timeWeek": 684,
-    "timeMonth": 700,
+    "timeDay": 766,
+    "timeWeek": 663,
+    "timeMonth": 698,
     "timeYear": 777,
     "dailyMinutesDown": {
       "2026-04-11": 23,
